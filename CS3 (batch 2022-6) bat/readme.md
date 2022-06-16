@@ -14,3 +14,5 @@ ACL<br>
 database:<br>
 audit - Trigger<br>
 small logic site plan<br>
+
+Algorithms write logic + why & core lines
