@@ -1,8 +1,0 @@
-main ()
-{
-cout<<"fool      1,000";
-cout<<"\n";
-cout<<"meat      2,000";
-cout<<endl;
-cout<<"enjoy our food"<<endl;
-}

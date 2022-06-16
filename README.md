@@ -26,3 +26,43 @@ challenge:<br>
 Bug bounty programs <br>
 hack the boxes<br>
 capture the flag<br>
+
+<br>
+programming ,database(sql) ,network ,system<br>
+A.->Authentication<br>
+A.->Authorization<br>
+A.->Accounting<br>
+<br>
+Small head -anti-virus/boot/how to deal / os /secure storage firewall
+<br>
+
+Programming<br>
+1.caesar cypher algorithm.<br>
+2.monoalphabetic cypher <br>
+3.playfair cypher<br>
+4.polyalphabetic cyphers<br>
+5.vigenere cypher<br>
+6.rail fence cypher<br>
+7.product cyphers<br>
+8.steganography<br>
+9.one-time pad<br>
+main logic encrypting and decrypting aids<br>
+
+database <br>
+1.triggers (limmits /saving audit)<br>
+2.control (grant,revoke)<br>
+3.data hashing<br>
+
+network <br>
+1.port security<br>
+2.ACL (access control list)<br>
+3.DDOS-attack<br>
+
+System <br>
+in real life example web with login from with 2 tables.<br>
+site spooling ,phashing<br>
+
+index .<br>
+database userwho ,time , whatdone <br>
+login ->how , home admin<br>
+session login. level of logic<br>
